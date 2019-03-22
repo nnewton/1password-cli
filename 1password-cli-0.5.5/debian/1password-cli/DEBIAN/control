@@ -1,0 +1,11 @@
+Package: 1password-cli
+Version: 0.5.5
+Architecture: amd64
+Maintainer: Narayan Newton <narayan@nnewton.org>
+Installed-Size: 6637
+Depends: libc6 (>= 2.3.2)
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
